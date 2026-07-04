@@ -2,7 +2,7 @@
 
 **Seatmate** is an offline study companion for Filipino students. Track your quizzes, subjects, grades, and notes while **Ella** — your seatmate — cheers you on in natural Taglish. No account, no internet, no ads. Your data never leaves your phone.
 
-> 🌐 **Website:** coming soon — this repo hosts the official app downloads.
+> 🌐 **Website:** [seatmate-site.vercel.app](https://seatmate-site.vercel.app) — this repo hosts the official app downloads.
 
 ## 📲 Download
 
