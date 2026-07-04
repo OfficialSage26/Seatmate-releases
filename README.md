@@ -6,7 +6,7 @@
 
 ## 📲 Download
 
-**[⇩ Download the latest APK](https://github.com/OfficialSage26/Seatmate-releases/releases/latest/download/Seatmate.apk)**
+**[⇩ Download the latest APK](https://github.com/OfficialSage26/Seatmate-releases/releases/latest/download/Seatmate.apk)** (~123 MB)
 
 Or browse all versions on the [Releases page](https://github.com/OfficialSage26/Seatmate-releases/releases).
 
